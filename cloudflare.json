@@ -15,8 +15,8 @@
         }, 
         "assets":{
             "logos" : {
-                "200px": "./public/images/logo-200.png",
-                "132px": "./public/images/logo-132.png"
+                "200px": "./public/images/tflogo200.jpg",
+                "132px": "./public/images/tflogo132.jpg"
             },
             "detail_page" : [
                 "./public/images/example.png"
